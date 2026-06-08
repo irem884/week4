@@ -20,7 +20,7 @@ for gul in gulsenem2:
   ayir=gul.split(' ')
   print(ayir)
 for gul in gulsenem2:
-  ayir=gul.split(' ')
+  ayir=gul.split(' ')  #İrem Ulucan tarafından kodlandı
   print(ayir[0])
 for gul in gulsenem2:
   ayir=gul.split(' ')
